@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="course.Microkernel.chile.plugin">
+    <module_version install_time="1640214717777" last="true" origin="installer" specification_version="1.0">
+        <file crc="3664384869" name="config/Modules/course-Microkernel-chile-plugin.xml"/>
+        <file crc="1030144648" name="modules/course-Microkernel-chile-plugin.jar"/>
+        <file crc="549214655" name="update_tracking/course-Microkernel-chile-plugin.xml"/>
+    </module_version>
+</module>
