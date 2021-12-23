@@ -1,5 +1,4 @@
 ## SistemaMensajeria
-
 This is an example application following the Publisher - Subscriber pattern and the Microkernel architecture. It also makes use of the RabbitMq server that provides us with a messaging broker and the existence of a queue between sender and receiver.
 
 ## Rabbit Install: Homebrew
